@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pageListOfBooks/static/css/main.6d5d16c4.css",
+    "main.js": "/pageListOfBooks/static/js/main.aefe9a59.js",
+    "static/media/Machete.jpg": "/pageListOfBooks/static/media/Machete.f179015abe240f981c60.jpg",
+    "static/media/What Lies Beyond the Veil.jpg": "/pageListOfBooks/static/media/What Lies Beyond the Veil.7b492c421789a8edc46a.jpg",
+    "static/media/Homecoming.jpg": "/pageListOfBooks/static/media/Homecoming.297baa74ae9678ab479d.jpg",
+    "static/media/Shadow and Bone.jpg": "/pageListOfBooks/static/media/Shadow and Bone.c5a95b768e48f61d940b.jpg",
+    "static/media/Babel Or the Necessity of Violence.jpg": "/pageListOfBooks/static/media/Babel Or the Necessity of Violence.9d486e1550734b22e13d.jpg",
+    "static/media/Throne of Glass.jpg": "/pageListOfBooks/static/media/Throne of Glass.5250f43d88ab464047ad.jpg",
+    "static/media/For Butter or Worse A ROM Com.webp": "/pageListOfBooks/static/media/For Butter or Worse A ROM Com.5f54e4c1a5544a84a272.webp",
+    "static/media/Phenomenal Woman.jpg": "/pageListOfBooks/static/media/Phenomenal Woman.e3cdc00eed1119977a4b.jpg",
+    "static/media/A Darker Shade of Magic.jpg": "/pageListOfBooks/static/media/A Darker Shade of Magic.f340d80a8fee4afbf216.jpg",
+    "static/media/Bonfire Opera.jpg": "/pageListOfBooks/static/media/Bonfire Opera.d08265b03a1744bca09a.jpg",
+    "static/media/The Poet X.webp": "/pageListOfBooks/static/media/The Poet X.0735f716b57dd0a049f0.webp",
+    "static/media/Fake It Till You Bake It.webp": "/pageListOfBooks/static/media/Fake It Till You Bake It.4f282c038214e4bc17ce.webp",
+    "static/media/Trust.webp": "/pageListOfBooks/static/media/Trust.009b42c7eed5e951130b.webp",
+    "static/media/A PHO Love Story.webp": "/pageListOfBooks/static/media/A PHO Love Story.a84f8bd330599346842a.webp",
+    "static/media/A Court of Thorns and Roses.webp": "/pageListOfBooks/static/media/A Court of Thorns and Roses.819b5b96bff65068d044.webp",
+    "static/media/Meet Cute Diary.webp": "/pageListOfBooks/static/media/Meet Cute Diary.7cece8e2e79d4c4fd8d4.webp",
+    "static/media/Tweet Cute.webp": "/pageListOfBooks/static/media/Tweet Cute.6aaa9fa3847c53d5f6a8.webp",
+    "static/media/All the Flowers Kneeling.webp": "/pageListOfBooks/static/media/All the Flowers Kneeling.b8cf45c2d42ff32143e3.webp",
+    "static/media/Ten Poems to Last a Lifetime.jpg": "/pageListOfBooks/static/media/Ten Poems to Last a Lifetime.e5f6220d69cbe10d747a.jpg",
+    "static/media/Homegoing.webp": "/pageListOfBooks/static/media/Homegoing.108c1b1a03b0a4d8cffc.webp",
+    "index.html": "/pageListOfBooks/index.html",
+    "main.6d5d16c4.css.map": "/pageListOfBooks/static/css/main.6d5d16c4.css.map",
+    "main.aefe9a59.js.map": "/pageListOfBooks/static/js/main.aefe9a59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d5d16c4.css",
+    "static/js/main.aefe9a59.js"
+  ]
+}
