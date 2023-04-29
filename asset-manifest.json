@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pageListOfBooks/static/css/main.6d5d16c4.css",
+    "main.css": "/pageListOfBooks/static/css/main.9857ee37.css",
     "main.js": "/pageListOfBooks/static/js/main.aefe9a59.js",
     "static/media/Machete.jpg": "/pageListOfBooks/static/media/Machete.f179015abe240f981c60.jpg",
     "static/media/What Lies Beyond the Veil.jpg": "/pageListOfBooks/static/media/What Lies Beyond the Veil.7b492c421789a8edc46a.jpg",
@@ -23,11 +23,11 @@
     "static/media/Ten Poems to Last a Lifetime.jpg": "/pageListOfBooks/static/media/Ten Poems to Last a Lifetime.e5f6220d69cbe10d747a.jpg",
     "static/media/Homegoing.webp": "/pageListOfBooks/static/media/Homegoing.108c1b1a03b0a4d8cffc.webp",
     "index.html": "/pageListOfBooks/index.html",
-    "main.6d5d16c4.css.map": "/pageListOfBooks/static/css/main.6d5d16c4.css.map",
+    "main.9857ee37.css.map": "/pageListOfBooks/static/css/main.9857ee37.css.map",
     "main.aefe9a59.js.map": "/pageListOfBooks/static/js/main.aefe9a59.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d5d16c4.css",
+    "static/css/main.9857ee37.css",
     "static/js/main.aefe9a59.js"
   ]
 }
